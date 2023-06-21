@@ -1,0 +1,4 @@
+Tere will be instructions on fork and clone:
+1. Fork
+2. Work and commit
+3. Push to origin
